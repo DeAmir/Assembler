@@ -1,0 +1,17 @@
+
+Processing file "errors_1.as"...
+Error at line 3: label is too long. Maximum length is 31 letters.
+Error at line 4: label name starts with a non-alphabetic character.
+Error at line 5: label name contains non-digit or non-alphabetic character or contains a whitespace inside it.
+Error at line 6: a saved word (register name, operation name, instruction name) can't be a label.
+Error at line 7: a saved word (register name, operation name, instruction name) can't be a label.
+Error at line 10: extra text after command.
+Error at line 11: invalid adressing method for destination argument.
+Error at line 12: invalid comma before argument.
+Error at line 13: contains two consecutive commas (,,).
+Error at line 14: extra text after command.
+Error at line 17: string not valid- must have exactly 2 quotes.
+Error at line 18: instruction must take an operand.
+Error at line 19: a number contains a non-digit letter.
+Error at line 20: invalid comma.
+
